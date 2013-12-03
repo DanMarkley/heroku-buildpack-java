@@ -116,7 +116,7 @@
       <name>DataNucleus_2</name>
     </mirror>
   </mirrors>
-  <serversMALFORMED!!
+  <servers>
 	<server>
 		<id>trifectaNexus</id>
 		<username>readonly</username>
