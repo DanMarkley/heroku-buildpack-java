@@ -56,7 +56,7 @@ if [ ! -d .maven ]; then
 fi
 
 #MAVEN_SETTINGS_URL="http://s3.amazonaws.com/heroku-jvm-langpack-java/settings.xml"
-MAVEN_SETTINGS_URL="https://github.com/DanMarkley/heroku-buildpack-java/blob/master/opt/settings.xml"
+MAVEN_SETTINGS_URL="https://raw.github.com/DanMarkley/heroku-buildpack-java/master/opt/settings.xml"
 
 echo -n "-----> Installing settings.xml..."
 if [ -f .m2/settings.xml ]; then
