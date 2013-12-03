@@ -122,6 +122,11 @@
 		<username>readonly</username>
 		<password>Tr1f3ct400</password>
 	</server>
+	<server>
+		<id>trifectaNexusSnapshots</id>
+		<username>readonly</username>
+		<password>Tr1f3ct400</password>
+	</server>
   </servers>
 
 </settings>
