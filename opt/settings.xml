@@ -116,5 +116,12 @@
       <name>DataNucleus_2</name>
     </mirror>
   </mirrors>
+  <servers>
+	<server>
+		<id>trifectaNexus</id>
+		<username>readonly</username>
+		<password>Tr1f3ct400</password>
+	</server>
+  </servers>
 
 </settings>
